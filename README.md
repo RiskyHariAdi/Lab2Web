@@ -1,3 +1,5 @@
+![logo](foto/logo.png)
+
 ## Nama : Risky HariAdi
 ## Kelas : TI.20.A1
 ## Nim : 312010124
